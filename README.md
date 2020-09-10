@@ -44,6 +44,7 @@ Lastly, but not least, we wanted to add more Vegan choices and reviews.
 ## Contact Information
 
 Ryan Hatfield - hatfield086@gmail.com
+Stephen flores - sflores813@gmail.com
 
 
 ## MIT License
