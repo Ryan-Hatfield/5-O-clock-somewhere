@@ -45,7 +45,8 @@ Lastly, but not least, we wanted to add more Vegan choices and reviews.
 
 Ryan Hatfield - hatfield086@gmail.com
 Stephen flores - sflores813@gmail.com
-
+Stephen Fink - stephenfink8@gmail.com
+Ben Towsnend - rbt000011@gmail.com
 
 ## MIT License
 
